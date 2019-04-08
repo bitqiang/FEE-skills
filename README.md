@@ -4,7 +4,7 @@
 
 ### 自己的文章
 
-1. vue 计算属性 set 相关[]
+1. [vue 计算属性 set 相关](https://github.com/bitqiang/FEE-skills/issues/1)
 
 
 
