@@ -11,6 +11,10 @@
 ### 前端领域大佬
 
 
+### 网络相关
+
+[HTTP协议之http状态码详解](https://blog.csdn.net/hzw05103020/article/details/47276005)
+
 
 
 ### vue相关
