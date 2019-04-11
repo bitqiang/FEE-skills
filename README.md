@@ -5,7 +5,7 @@
 ### 自己的文章
 
 1. [vue 计算属性 set 相关](https://github.com/bitqiang/FEE-skills/issues/1)
-
+2. [JavaScript数据结构--链表](https://juejin.im/post/5caf4e1d6fb9a068b3678329)
 
 
 ### 前端领域大佬
