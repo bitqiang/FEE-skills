@@ -11,6 +11,9 @@
 ### 前端领域大佬
 
 
+### 前端好文&博客
+[前端精读周刊](https://github.com/dt-fe/weekly)
+
 ### 网络相关
 
 [HTTP协议之http状态码详解](https://blog.csdn.net/hzw05103020/article/details/47276005)
