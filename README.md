@@ -17,7 +17,7 @@
 ### 网络相关
 
 [HTTP协议之http状态码详解](https://blog.csdn.net/hzw05103020/article/details/47276005)
-
+[网页性能管理详解--编写代码需要注意的优化地方](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 
 
 ### vue相关
